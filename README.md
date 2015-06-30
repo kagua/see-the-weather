@@ -14,5 +14,6 @@ date=1 明日
 date=2 明後日
 空欄や上記以外ですと1にセットされます。
 
-
+## ダウンロード
+[WordPress公式ディレクトリ](https://wordpress.org/plugins/show-the-weather-jp/)
 
